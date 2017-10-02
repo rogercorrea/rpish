@@ -26,6 +26,7 @@ sudo apt-get purge geany* -y
 sudo apt-get purge python-pygame -y
 #sudo apt-get purge realvnc* -y
 sudo apt-get purge netsurf* -y
+#sudo apt-get purge chromium* -y
 
 sudo apt-get clean
 sudo apt-get autoremove -y
