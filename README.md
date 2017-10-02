@@ -1,6 +1,5 @@
 # rpish
-Scripts to optimize the Raspbian.
-
+Scripts to optimize the Raspbian, system based in Debian and used in the Raspberry Pi board as the official distro.
 Cleaning default apps for reduce disk space usage.
 
 For script use, you can insert in the terminal:
