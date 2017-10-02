@@ -1,0 +1,7 @@
+#Script to update date and time of your Raspbian if don't work automatically.
+
+sudo apt-get install ntpdate -y
+sudo ntpdate -u 0.br.pool.ntp.org
+
+#if you use the RTC hardware in your RPi.
+#sudo hwclock --systohc
